@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChangeTextOrImage</string>
+    <string name="change_me">Change me!</string>
+    <string name="change">Change text</string>
+    <string name="rightimage">rightImage</string>
+    <string name="leftimage">leftImage</string>
+</resources>

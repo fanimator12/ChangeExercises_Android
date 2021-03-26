@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Változtass</string>
+    <string name="change_me">Változtass meg!</string>
+    <string name="change">Változtass</string>
+    <string name="rightimage">jobb kép</string>
+    <string name="leftimage">bal kép</string>
+</resources>
